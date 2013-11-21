@@ -62,5 +62,5 @@ tagger:
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
-        path: ../hyde.github.com
+        path: ../yaodianmi.github.io
         url: git@github.com:yaodianmi/yaodianmi.github.io.git
